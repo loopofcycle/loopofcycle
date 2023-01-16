@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loopofcycle
 - 👀 I’m interested in engineering systems and automatization
-- 🌱 I’m currently learning web
+- 🌱 I’m currently working as BIM-developer, ask me anything about revit API
 - 📫 How to reach me loopofcycle@gmail.com
 
 <!---
